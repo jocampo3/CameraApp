@@ -1,7 +1,9 @@
 
 # Device Management Project
 
-A brief description of your project here.
+Project Instructions: Each team will need to research and find the appropriate APIs necessary to connect a basic
+application to the computers webcam. The application must then capture a single picture from
+the webcam and display it in the app in some format. 
 
 ## Getting Started
 
