@@ -23,7 +23,7 @@ Follow the instructions below to get a copy of this project up and running on yo
 2. **Copy the Repository URL**  
    - On the project’s GitHub page, locate the green **Code** button (usually found near the top right).
    - Click the **Code** button and select **HTTPS**.
-   - Copy the URL provided (it should look like `https://github.com/username/repository-name.git`).
+   - Copy the URL provided (it should look like `https://github.com/jocampo3/CameraApp.git`).
 
 3. **Open a Terminal or Command Prompt**  
    - On your computer, open **Terminal** (on macOS or Linux) or **Command Prompt** (on Windows).
@@ -38,14 +38,14 @@ Follow the instructions below to get a copy of this project up and running on yo
 5. **Clone the Repository**  
    - In your terminal or command prompt, type the following command:
      ```bash
-     git clone https://github.com/username/repository-name.git
+     git clone https://github.com/jocampo3/CameraApp.git
      ```
    - Press **Enter** to start the cloning process. This will create a folder with the project’s files in the directory you selected.
 
 6. **Navigate into the Project Folder**  
    - Once cloning is complete, navigate into the newly created project folder by typing:
      ```bash
-     cd repository-name
+     cd CameraApp
      ```
 
 7. **You’re Done!**  
