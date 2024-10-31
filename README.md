@@ -1,5 +1,5 @@
 
-# Project Title
+# Device Management Project
 
 A brief description of your project here.
 
